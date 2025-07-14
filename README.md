@@ -37,17 +37,6 @@
 
 ---
 
-## 🌐 Use as a Chrome Extension
-
-1. Go to `chrome://extensions/`
-2. Enable **Developer Mode**
-3. Click **Load Unpacked**
-4. Select the project folder
-
-> Ensure `manifest.json` is present in the root directory for extension functionality.
-
----
-
 ## 🧠 Learning Goals
 
 - Recognize common attack vectors in cybersecurity
